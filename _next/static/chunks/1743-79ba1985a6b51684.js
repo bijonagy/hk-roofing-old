@@ -2337,7 +2337,7 @@
                                   children: (0, l.jsx)(
                                     t(),
                                     ((s = {
-                                      alt: "BluePagesPro Truereviews",
+                                      alt: "HK Roofing Truereviews",
                                       src: "/assets/images/listing/pro-review-logo.webp",
                                     }),
                                     (0, a.Z)(s, "alt", "ProReview"),
