@@ -994,6 +994,7 @@
         });
       }
       function x(e) {
+        return null;
         var s = e.listing,
           n = e.markers,
           d = (0, l.Z)(
