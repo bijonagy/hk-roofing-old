@@ -5319,7 +5319,7 @@ body.video-react-full-window .video-react-fullscreen {
   height: 70px;
   display: block;
   color: transparent;
-  background-image: url(/assets/images/listing/play-icon.webp);
+  background-image: url(assets/images/listing/play-icon.webp);
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 100%;
@@ -7832,7 +7832,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .home .content .home-search .field-row.postal-field .form-field {
-  background-image: url(/assets/images/default-marker.png);
+  background-image: url(assets/images/default-marker.png);
   background-size: 13px;
   background-position: 12px;
   background-repeat: no-repeat;
@@ -8481,7 +8481,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listings-module .filter-wrapper .filter.location .field-row.postal-field .form-field {
-  background-image: url(/assets/images/default-marker.png);
+  background-image: url(assets/images/default-marker.png);
   background-size: 13px;
   background-position: 8px;
   background-repeat: no-repeat;
@@ -8967,7 +8967,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.free .banner-wrapper {
   text-align: center;
-  background: url(/assets/images/bluepagespro-free-listings-banner.jpg);
+  background: url(assets/images/bluepagespro-free-listings-banner.jpg);
   background-color: #0078ca;
   background-position: 50%;
   background-size: cover;
@@ -9532,7 +9532,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro .banner-wrapper .banner .left-column .button-row a.get-quote:before {
   content: "";
-  background: url(/assets/images/listing/quote-icon.png);
+  background: url(assets/images/listing/quote-icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -9550,7 +9550,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro .banner-wrapper .banner .left-column .button-row a.call-us:before {
   content: "";
-  background: url(/assets/images/listing/call-icon.png);
+  background: url(assets/images/listing/call-icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -9849,7 +9849,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro #about-us .detail-wrapper .button-row .button.financing:before {
   content: "";
-  background: url(/assets/images/listing/financing-icon.png);
+  background: url(assets/images/listing/financing-icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -9865,7 +9865,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro #about-us .detail-wrapper .button-row .button.special-offer:before {
   content: "";
-  background: url(/assets/images/listing/special-offer-icon.png);
+  background: url(assets/images/listing/special-offer-icon.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -9938,7 +9938,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-module.pro #about-us .listing-wrapper>div.right-column .financing-calculator {
-  background: url(/assets/images/listing/calculator-mobile.png);
+  background: url(assets/images/listing/calculator-mobile.png);
   background-size: 100% 100%;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -10044,7 +10044,7 @@ body.video-react-full-window .video-react-fullscreen {
   display: inline-block;
   vertical-align: middle;
   margin-right: 10px;
-  background: url(/assets/images/listing/instant-estimator.png);
+  background: url(assets/images/listing/instant-estimator.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -10216,7 +10216,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro .contact-wrapper .contact .column .virtual-scheduler-wrapper .button:before {
   content: "";
-  background: url(/assets/images/listing/virtual-scheduler-icon.png);
+  background: url(assets/images/listing/virtual-scheduler-icon.png);
   width: 23px;
   height: 21px;
   background-size: contain;
@@ -10492,7 +10492,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro .consultation-wrapper {
   text-align: center;
-  background: url(/assets/images/bluepagespro-pro-listing-form-background.jpg);
+  background: url(assets/images/bluepagespro-pro-listing-form-background.jpg);
   background-position: 50%;
   background-size: cover;
   padding: 60px 30px;
@@ -11453,7 +11453,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-module.pro-lite .banner-wrapper {
   text-align: center;
-  background: url(/assets/images/bluepagespro-free-listings-banner.jpg);
+  background: url(assets/images/bluepagespro-free-listings-banner.jpg);
   background-color: #0078ca;
   background-position: 50%;
   background-size: cover;
@@ -11751,7 +11751,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-module.pro-lite .listing-wrapper .right-column .financing-calculator {
-  background: url(/assets/images/listing/calculator-mobile.png);
+  background: url(assets/images/listing/calculator-mobile.png);
   background-size: 100% 100%;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -11861,7 +11861,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-module.pro-lite .listing-wrapper .right-column .button-actions .button.financing:before {
-  background: url(/assets/images/listing/financing-icon.png);
+  background: url(assets/images/listing/financing-icon.png);
 }
 
 .listing-module.pro-lite .listing-wrapper .right-column .button-actions .button.financing:hover {
@@ -11874,7 +11874,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-module.pro-lite .listing-wrapper .right-column .button-actions .button.call-us:before {
-  background: url(/assets/images/listing/call-us-icon.png);
+  background: url(assets/images/listing/call-us-icon.png);
 }
 
 .listing-module.pro-lite .listing-wrapper .right-column .button-actions .button.call-us:hover {
@@ -12148,7 +12148,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-wrapper.free .banner-wrapper {
   text-align: center;
-  background: url(/assets/images/listing/free-plan-banner-default.webp);
+  background: url(assets/images/listing/free-plan-banner-default.webp);
   background-color: #0078ca;
   background-position: 50%;
   background-size: cover;
@@ -13017,7 +13017,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-wrapper.pro .divider {
   height: 95px;
-  background: url(/assets/images/listing/dot-pattern.webp);
+  background: url(assets/images/listing/dot-pattern.webp);
   background-repeat: repeat-x;
   background-position: 50%;
 }
@@ -13685,7 +13685,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .financing-wrapper {
-  background: url(/assets/images/listing/dot-pattern.webp);
+  background: url(assets/images/listing/dot-pattern.webp);
   background-repeat: repeat-x;
   background-position: bottom;
 }
@@ -13751,7 +13751,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .financing-wrapper .container .financing-estimator .financing-calculator {
-  background: url(/assets/images/listing/bpp-calculator-mobile.webp);
+  background: url(assets/images/listing/bpp-calculator-mobile.webp);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -13846,7 +13846,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .projects-wrapper {
-  background: url(/assets/images/listing/projects-default-background.webp);
+  background: url(assets/images/listing/projects-default-background.webp);
   background-color: #0b1224;
   background-size: cover;
   background-position: 50%;
@@ -14087,14 +14087,14 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .review-wrapper .slider .swiper-button-next {
-  background: url(/assets/images/listing/slider-next-arrow-button.webp);
+  background: url(assets/images/listing/slider-next-arrow-button.webp);
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
 }
 
 .listing-wrapper.pro .review-wrapper .slider .swiper-button-prev {
-  background: url(/assets/images/listing/slider-prev-arrow-button.webp);
+  background: url(assets/images/listing/slider-prev-arrow-button.webp);
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -14168,7 +14168,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .consultation-wrapper {
-  background: url(/assets/images/listing/special-offer-default-background.webp);
+  background: url(assets/images/listing/special-offer-default-background.webp);
   background-color: #227af4;
   background-size: cover;
   background-position: 50%;
@@ -15473,7 +15473,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro-lite .banner-wrapper {
-  background: url(/assets/images/listing/pro-lite-plan-banner-default.webp);
+  background: url(assets/images/listing/pro-lite-plan-banner-default.webp);
   background-color: #0078ca;
   background-position: 50%;
   background-size: cover;
@@ -15720,7 +15720,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro-lite .financing-wrapper .container .financing-estimator .financing-calculator {
-  background: url(/assets/images/listing/bpp-calculator-mobile.webp);
+  background: url(assets/images/listing/bpp-calculator-mobile.webp);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -16871,7 +16871,7 @@ body.video-react-full-window .video-react-fullscreen {
 
 .listing-wrapper.platinum .divider {
   height: 95px;
-  background: url(/assets/images/listing/dot-pattern.webp);
+  background: url(assets/images/listing/dot-pattern.webp);
   background-repeat: repeat-x;
   background-position: 50%;
 }
@@ -17657,7 +17657,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.platinum .financing-wrapper {
-  background: url(/assets/images/listing/dot-pattern.webp);
+  background: url(assets/images/listing/dot-pattern.webp);
   background-repeat: repeat-x;
   background-position: bottom;
 }
@@ -17723,7 +17723,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.platinum .financing-wrapper .container .financing-estimator .financing-calculator {
-  background: url(/assets/images/listing/bpp-calculator-mobile.webp);
+  background: url(assets/images/listing/bpp-calculator-mobile.webp);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -17818,7 +17818,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.platinum .projects-wrapper {
-  background: url(/assets/images/listing/projects-default-background.webp);
+  background: url(assets/images/listing/projects-default-background.webp);
   background-color: #0b1224;
   background-size: cover;
   background-position: 50%;
@@ -18059,14 +18059,14 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.platinum .review-wrapper .slider .swiper-button-next {
-  background: url(/assets/images/listing/slider-next-arrow-button.webp);
+  background: url(assets/images/listing/slider-next-arrow-button.webp);
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
 }
 
 .listing-wrapper.platinum .review-wrapper .slider .swiper-button-prev {
-  background: url(/assets/images/listing/slider-prev-arrow-button.webp);
+  background: url(assets/images/listing/slider-prev-arrow-button.webp);
   background-size: contain;
   background-position: 50%;
   background-repeat: no-repeat;
@@ -18136,7 +18136,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.platinum .consultation-wrapper {
-  background: url(/assets/images/listing/special-offer-default-background.webp);
+  background: url(assets/images/listing/special-offer-default-background.webp);
   background-color: #227af4;
   background-size: cover;
   background-position: 50%;
@@ -20934,11 +20934,11 @@ h6 {
 }
 
 .slick-slider button.slick-prev {
-  background: url(/assets/images/listing/previous-arrow-button.webp);
+  background: url(assets/images/listing/previous-arrow-button.webp);
 }
 
 .slick-slider button.slick-next {
-  background: url(/assets/images/listing/next-arrow-button.webp);
+  background: url(assets/images/listing/next-arrow-button.webp);
 }
 
 .slick-slider button.slick-next,

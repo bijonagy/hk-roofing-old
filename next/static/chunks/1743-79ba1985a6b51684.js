@@ -1489,7 +1489,7 @@
                             children: [
                               (0, l.jsx)('img', {
                                 className: 'icon',
-                                src: './assets/images/listing/phone-icon.svg',
+                                src: 'assets/images/listing/phone-icon.svg',
                                 style: {
                                   color: 'white',
                                   width: '40px'
@@ -1984,7 +1984,7 @@
                             (0, l.jsx)('div', {
                               className: 'image-icon',
                               children: (0, l.jsx)('img', {
-                                src: '/assets/images/listing/professional-contractors.webp',
+                                src: 'assets/images/listing/professional-contractors.webp',
                                 alt: 'Professional Contractors',
                                 loading: 'lazy',
                                 width: '59',
@@ -2003,7 +2003,7 @@
                             (0, l.jsx)('div', {
                               className: 'image-icon',
                               children: (0, l.jsx)('img', {
-                                src: '/assets/images/listing/affordable-service.webp',
+                                src: 'assets/images/listing/affordable-service.webp',
                                 alt: 'Affordable Services',
                                 loading: 'lazy',
                                 width: '59',
@@ -2022,7 +2022,7 @@
                             (0, l.jsx)('div', {
                               className: 'image-icon',
                               children: (0, l.jsx)('img', {
-                                src: '/assets/images/listing/excellent-service.webp',
+                                src: 'assets/images/listing/excellent-service.webp',
                                 alt: 'Quality Workmanship',
                                 loading: 'lazy',
                                 width: '59',
@@ -2041,7 +2041,7 @@
                             (0, l.jsx)('div', {
                               className: 'image-icon',
                               children: (0, l.jsx)('img', {
-                                src: '/assets/images/listing/best-materials.webp',
+                                src: 'assets/images/listing/best-materials.webp',
                                 alt: 'Best Materials',
                                 loading: 'lazy',
                                 width: '59',
@@ -2069,7 +2069,7 @@
                               children: (0, l.jsx)('img', {
                                 className: 'image-wrapper',
                                 style: { width: 'auto', height: 'auto' },
-                                src: './assets/images/our-projects/3.jpg',
+                                src: 'assets/images/our-projects/3.jpg',
                                 alt: 'Homeowners Toolbox',
                                 width: '85',
                                 height: '49',
@@ -2275,7 +2275,7 @@
                                 'Try Now!',
                                 O.width > 750
                                   ? (0, l.jsx)('img', {
-                                      src: '/assets/images/listing/green-arrow-right.webp',
+                                      src: 'assets/images/listing/green-arrow-right.webp',
                                       alt: 'Try Financing calculator',
                                       className: 'floating-side',
                                       loading: 'lazy',
@@ -2283,7 +2283,7 @@
                                       height: '39',
                                     })
                                   : (0, l.jsx)('img', {
-                                      src: '/assets/images/listing/green-arrow-down.webp',
+                                      src: 'assets/images/listing/green-arrow-down.webp',
                                       alt: 'Try Financing calculator',
                                       className: 'floating',
                                       loading: 'lazy',
@@ -2372,7 +2372,7 @@
                                     },
                                     children: [
                                       (0, l.jsx)('img', {
-                                        src: '/assets/images/listing/testimonials.png',
+                                        src: 'assets/images/listing/testimonials.png',
                                         alt: 'Testimonials',
                                         width: '40',
                                       }),
@@ -2435,7 +2435,7 @@
                                       children: 'Powered By',
                                     }),
                                     (0, l.jsx)('img', {
-                                      src: '/assets/images/listing/project-map-it-icon-small.webp',
+                                      src: 'assets/images/listing/project-map-it-icon-small.webp',
                                       alt: 'Project Map It',
                                       loading: 'lazy',
                                       width: '21',
@@ -2685,7 +2685,7 @@
                         //       href: '/toolbox/',
                         //       children: [
                         //         (0, l.jsx)('img', {
-                        //           src: '/assets/images/homeowners-toolbox.webp',
+                        //           src: 'assets/images/homeowners-toolbox.webp',
                         //           alt: 'Homeowners Toolbox',
                         //           width: '85',
                         //           height: '49',
@@ -3114,13 +3114,13 @@
                                 'Try Now!',
                                 A.width > 750
                                   ? (0, i.jsx)('img', {
-                                      src: '/assets/images/listing/green-arrow-right.webp',
+                                      src: 'assets/images/listing/green-arrow-right.webp',
                                       alt: 'Try Financing calculator',
                                       className: 'floating-side',
                                       loading: 'lazy',
                                     })
                                   : (0, i.jsx)('img', {
-                                      src: '/assets/images/listing/green-arrow-down.webp',
+                                      src: 'assets/images/listing/green-arrow-down.webp',
                                       alt: 'Try Financing calculator',
                                       className: 'floating',
                                       loading: 'lazy',
@@ -3439,7 +3439,7 @@
                         //       href: '/toolbox/',
                         //       children: [
                         //         (0, i.jsx)('img', {
-                        //           src: '/assets/images/homeowners-toolbox.webp',
+                        //           src: 'assets/images/homeowners-toolbox.webp',
                         //           alt: 'Homeowners Toolbox',
                         //           width: '85',
                         //           height: '49',
@@ -3498,7 +3498,7 @@
                 //   children: (0, a.jsx)('a', {
                 //     className: 'logo',
                 //     children: (0, a.jsx)(t(), {
-                //       src: '/assets/images/homeowners-toolbox.webp',
+                //       src: 'assets/images/homeowners-toolbox.webp',
                 //       width: 85,
                 //       height: 49,
                 //       alt: 'Homeowner toolbox information',

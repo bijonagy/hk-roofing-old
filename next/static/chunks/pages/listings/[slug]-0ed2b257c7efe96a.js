@@ -195,7 +195,7 @@
                                 className: 'logo',
                                 children: (0, n.jsx)(h(), {
                                   alt: 'BluePagesPro Logo',
-                                  src: '/assets/images/bluepages-pro-logo.svg',
+                                  src: 'assets/images/bluepages-pro-logo.svg',
                                   width: '200',
                                   height: '41',
                                   loading: 'lazy',
@@ -209,7 +209,7 @@
                                 className: 'logo',
                                 children: (0, n.jsx)(h(), {
                                   alt: 'BluePagesPro Logo',
-                                  src: '/assets/images/bluepages-pro-icon-blueblack.svg',
+                                  src: 'assets/images/bluepages-pro-icon-blueblack.svg',
                                   width: '32',
                                   height: '41',
                                   loading: 'lazy',
@@ -639,7 +639,7 @@
                               href: '/toolbox/',
                               children: [
                                 (0, n.jsx)('img', {
-                                  src: '/assets/images/homeowners-toolbox.webp',
+                                  src: 'assets/images/homeowners-toolbox.webp',
                                   alt: 'Homeowners Toolbox',
                                   width: '85',
                                   height: '49',
@@ -1751,7 +1751,7 @@
                     (0, n.jsx)('div', {
                       className: 'image-wrapper',
                       children: (0, n.jsx)('img', {
-                        src: '/assets/images/listing/iSoftPull-integration-mobile.webp',
+                        src: 'assets/images/listing/iSoftPull-integration-mobile.webp',
                       }),
                     }),
                     (0, n.jsxs)('div', {
@@ -1935,7 +1935,7 @@
                             (0, n.jsx)('div', {
                               className: 'image-icon',
                               children: (0, n.jsx)('img', {
-                                src: '/assets/images/listing/professional-contractors.webp',
+                                src: 'assets/images/listing/professional-contractors.webp',
                                 alt: 'Professional Contractors',
                                 loading: 'lazy',
                                 width: '59',
@@ -1954,7 +1954,7 @@
                             (0, n.jsx)('div', {
                               className: 'image-icon',
                               children: (0, n.jsx)('img', {
-                                src: '/assets/images/listing/affordable-service.webp',
+                                src: 'assets/images/listing/affordable-service.webp',
                                 alt: 'Affordable Services',
                                 loading: 'lazy',
                                 width: '59',
@@ -1973,7 +1973,7 @@
                             (0, n.jsx)('div', {
                               className: 'image-icon',
                               children: (0, n.jsx)('img', {
-                                src: '/assets/images/listing/excellent-service.webp',
+                                src: 'assets/images/listing/excellent-service.webp',
                                 alt: 'Quality Workmanship',
                                 loading: 'lazy',
                                 width: '59',
@@ -1992,7 +1992,7 @@
                             (0, n.jsx)('div', {
                               className: 'image-icon',
                               children: (0, n.jsx)('img', {
-                                src: '/assets/images/listing/best-materials.webp',
+                                src: 'assets/images/listing/best-materials.webp',
                                 alt: 'Best Materials',
                                 loading: 'lazy',
                                 width: '59',
@@ -2213,7 +2213,7 @@
                                   'Try Now!',
                                   P.width > 750
                                     ? (0, n.jsx)('img', {
-                                        src: '/assets/images/listing/green-arrow-right.webp',
+                                        src: 'assets/images/listing/green-arrow-right.webp',
                                         alt: 'Try Financing calculator',
                                         className: 'floating-side',
                                         loading: 'lazy',
@@ -2221,7 +2221,7 @@
                                         height: '39',
                                       })
                                     : (0, n.jsx)('img', {
-                                        src: '/assets/images/listing/green-arrow-down.webp',
+                                        src: 'assets/images/listing/green-arrow-down.webp',
                                         alt: 'Try Financing calculator',
                                         className: 'floating',
                                         loading: 'lazy',
@@ -2285,7 +2285,7 @@
                             (0, n.jsx)('div', {
                               className: 'column thumbnail',
                               children: (0, n.jsx)('img', {
-                                src: '/assets/images/listing/review-thumbnail.webp',
+                                src: 'assets/images/listing/review-thumbnail.webp',
                                 alt: 'ProReview Customers',
                                 loading: 'lazy',
                                 width: '540',
@@ -2301,7 +2301,7 @@
                                     h(),
                                     ((s = {
                                       alt: 'BluePagesPro Truereviews',
-                                      src: '/assets/images/listing/pro-review-logo.webp',
+                                      src: 'assets/images/listing/pro-review-logo.webp',
                                     }),
                                     (0, C.Z)(s, 'alt', 'ProReview'),
                                     (0, C.Z)(s, 'layout', 'intrinsic'),
@@ -2357,7 +2357,7 @@
                                       children: 'Powered By',
                                     }),
                                     (0, n.jsx)('img', {
-                                      src: '/assets/images/listing/project-map-it-icon-small.webp',
+                                      src: 'assets/images/listing/project-map-it-icon-small.webp',
                                       alt: 'Project Map It',
                                       loading: 'lazy',
                                       width: '21',
@@ -2607,7 +2607,7 @@
                               href: '/toolbox/',
                               children: [
                                 (0, n.jsx)('img', {
-                                  src: '/assets/images/homeowners-toolbox.webp',
+                                  src: 'assets/images/homeowners-toolbox.webp',
                                   alt: 'Homeowners Toolbox',
                                   width: '85',
                                   height: '49',
