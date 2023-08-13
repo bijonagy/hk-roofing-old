@@ -206,102 +206,102 @@ button {
 
 @font-face {
   font-family: Montserrat;
-  src: url(/_next/static/media/Montserrat-Regular.09cae4fd.ttf) format("truetype");
+  src: url(/next/static/media/Montserrat-Regular.09cae4fd.ttf) format("truetype");
   font-display: swap;
 }
 
 @font-face {
   font-family: Montserrat;
-  src: url(/_next/static/media/Montserrat-Bold.a8958d1a.ttf) format("truetype");
+  src: url(/next/static/media/Montserrat-Bold.a8958d1a.ttf) format("truetype");
   font-weight: 700;
   font-display: swap;
 }
 
 @font-face {
   font-family: Montserrat;
-  src: url(/_next/static/media/Montserrat-Italic.85d55976.ttf) format("truetype");
+  src: url(/next/static/media/Montserrat-Italic.85d55976.ttf) format("truetype");
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url(/_next/static/media/OpenSans-Regular.1e96fcda.ttf) format("truetype");
+  src: url(/next/static/media/OpenSans-Regular.1e96fcda.ttf) format("truetype");
   font-display: swap;
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url(/_next/static/media/OpenSans-Bold.1c422b2b.ttf) format("truetype");
+  src: url(/next/static/media/OpenSans-Bold.1c422b2b.ttf) format("truetype");
   font-weight: 700;
   font-display: swap;
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url(/_next/static/media/OpenSans-ExtraBold.15813c62.ttf) format("truetype");
+  src: url(/next/static/media/OpenSans-ExtraBold.15813c62.ttf) format("truetype");
   font-weight: 900;
   font-display: swap;
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url(/_next/static/media/OpenSans-Italic.213bb17f.ttf) format("truetype");
+  src: url(/next/static/media/OpenSans-Italic.213bb17f.ttf) format("truetype");
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: Gilroy;
-  src: url(/_next/static/media/Gilroy-Medium.40753d62.ttf) format("truetype");
+  src: url(/next/static/media/Gilroy-Medium.40753d62.ttf) format("truetype");
   font-display: swap;
 }
 
 @font-face {
   font-family: Gilroy;
-  src: url(/_next/static/media/Gilroy-Medium.40753d62.ttf) format("truetype");
+  src: url(/next/static/media/Gilroy-Medium.40753d62.ttf) format("truetype");
   font-weight: 500;
   font-display: swap;
 }
 
 @font-face {
   font-family: Gilroy;
-  src: url(/_next/static/media/Gilroy-SemiBold.0560c261.ttf) format("truetype");
+  src: url(/next/static/media/Gilroy-SemiBold.0560c261.ttf) format("truetype");
   font-weight: 600;
   font-display: swap;
 }
 
 @font-face {
   font-family: Gilroy;
-  src: url(/_next/static/media/Gilroy-Bold.a112078e.ttf) format("truetype");
+  src: url(/next/static/media/Gilroy-Bold.a112078e.ttf) format("truetype");
   font-weight: 700;
   font-display: swap;
 }
 
 @font-face {
   font-family: Gilroy;
-  src: url(/_next/static/media/Gilroy-ExtraBold.c16f19cc.ttf) format("truetype");
+  src: url(/next/static/media/Gilroy-ExtraBold.c16f19cc.ttf) format("truetype");
   font-weight: 800;
   font-display: swap;
 }
 
 @font-face {
   font-family: Gilroy;
-  src: url(/_next/static/media/Gilroy-Heavy.3261d529.ttf) format("truetype");
+  src: url(/next/static/media/Gilroy-Heavy.3261d529.ttf) format("truetype");
   font-weight: 900;
   font-display: swap;
 }
 
 @font-face {
   font-family: Brittany Signature;
-  src: url(/_next/static/media/Brittany-Signature.f1951219.ttf) format("truetype");
+  src: url(/next/static/media/Brittany-Signature.f1951219.ttf) format("truetype");
   font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: Editors Note;
-  src: url(/_next/static/media/EditorsNote-Regular.280d4c42.ttf) format("truetype");
+  src: url(/next/static/media/EditorsNote-Regular.280d4c42.ttf) format("truetype");
   font-weight: 400;
   font-display: swap;
 }

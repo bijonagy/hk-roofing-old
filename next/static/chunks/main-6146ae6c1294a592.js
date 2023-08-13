@@ -1464,7 +1464,7 @@
                 (window.__NEXT_DATA__ = L),
                 (z = L.defaultLocale),
                 (e = L.assetPrefix || ""),
-                (r.p = "".concat(e, "/_next/")),
+                (r.p = "".concat(e, "/next/")),
                 b.setConfig({
                   serverRuntimeConfig: {},
                   publicRuntimeConfig: L.runtimeConfig || {},
@@ -1525,7 +1525,7 @@
                   value: {
                     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                    path: "/_next/image/",
+                    path: "/next/image/",
                     loader: "default",
                     dangerouslyAllowSVG: !1,
                     unoptimized: !0,
@@ -2065,7 +2065,7 @@
                       ".json"
                     );
                     return i.addBasePath(
-                      "/_next/data/".concat(t.buildId).concat(r).concat(v),
+                      "/next/data/".concat(t.buildId).concat(r).concat(v),
                       !0
                     );
                   })(
@@ -2560,7 +2560,7 @@
           if (!(t in r))
             throw c(new Error("Failed to lookup route: ".concat(t)));
           var a = r[t].map(function (t) {
-            return e + "/_next/" + encodeURI(t);
+            return e + "/next/" + encodeURI(t);
           });
           return {
             scripts: a
@@ -3448,7 +3448,7 @@
       t.imageConfigDefault = {
         deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
         imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-        path: "/_next/image",
+        path: "/next/image",
         loader: "default",
         domains: [],
         disableStaticImages: !1,
@@ -5360,7 +5360,7 @@
           );
           e.buildId &&
             (t = o.addPathSuffix(
-              a.addPathPrefix(t, "/_next/data/".concat(e.buildId)),
+              a.addPathPrefix(t, "/next/data/".concat(e.buildId)),
               "/" === e.pathname ? "index.json" : ".json"
             ));
           return (
@@ -5466,11 +5466,11 @@
             (l.basePath = u));
           if (
             !0 === t.parseData &&
-            l.pathname.startsWith("/_next/data/") &&
+            l.pathname.startsWith("/next/data/") &&
             l.pathname.endsWith(".json")
           ) {
             var f = l.pathname
-                .replace(/^\/_next\/data\//, "")
+                .replace(/^\/next\/data\//, "")
                 .replace(/\.json$/, "")
                 .split("/"),
               d = f[0];

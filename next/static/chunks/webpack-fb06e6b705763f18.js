@@ -197,7 +197,7 @@
     (n.tu = function (e) {
       return n.tt().createScriptURL(e);
     }),
-    (n.p = "/_next/"),
+    (n.p = "/next/"),
     (function () {
       var e = { 2272: 0 };
       (n.f.j = function (t, r) {
