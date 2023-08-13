@@ -3554,7 +3554,7 @@
               (0, a.jsxs)('p', {
                 className: 'copyright',
                 children: [
-                  'Copyright \xa9 2022 \u2013 BluePagesPro \u2013 All Rights Reserved. ',
+                  'Copyright \xa9 2022 \u2013 HK Roofing \u2013 All Rights Reserved. ',
                   (0, a.jsx)('span', { className: 'separator', children: '|' }),
                   ' ',
                   (0, a.jsx)(l(), {

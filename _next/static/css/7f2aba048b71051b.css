@@ -13050,6 +13050,7 @@ body.video-react-full-window .video-react-fullscreen {
   height: auto;
   max-width: 250px;
   max-height: 80px;
+  padding-left: 6px;
 }
 
 .listing-wrapper.pro .offer-wrapper {
@@ -14486,9 +14487,9 @@ body.video-react-full-window .video-react-fullscreen {
     padding-top: 8%;
   }
 
-  .listing-wrapper.pro .banner-wrapper .logo-wrapper img {
+  /* .listing-wrapper.pro .banner-wrapper .logo-wrapper img {
     max-height: 50px;
-  }
+  } */
 }
 
 @media (max-width: 1380px) {
