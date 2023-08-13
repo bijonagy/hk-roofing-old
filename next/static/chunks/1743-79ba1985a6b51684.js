@@ -2677,28 +2677,28 @@
                               ],
                             }),
                         }),
-                        (0, l.jsx)('div', {
-                          className: 'column toolbox',
-                          children: (0, l.jsx)('div', {
-                            className: 'image-wrapper',
-                            children: (0, l.jsxs)('a', {
-                              href: '/toolbox/',
-                              children: [
-                                (0, l.jsx)('img', {
-                                  src: '/assets/images/homeowners-toolbox.webp',
-                                  alt: 'Homeowners Toolbox',
-                                  width: '85',
-                                  height: '49',
-                                  loading: 'lazy',
-                                }),
-                                (0, l.jsx)('span', {
-                                  className: 'label',
-                                  children: 'BPP Toolbox',
-                                }),
-                              ],
-                            }),
-                          }),
-                        }),
+                        // (0, l.jsx)('div', {
+                        //   className: 'column toolbox',
+                        //   children: (0, l.jsx)('div', {
+                        //     className: 'image-wrapper',
+                        //     children: (0, l.jsxs)('a', {
+                        //       href: '/toolbox/',
+                        //       children: [
+                        //         (0, l.jsx)('img', {
+                        //           src: '/assets/images/homeowners-toolbox.webp',
+                        //           alt: 'Homeowners Toolbox',
+                        //           width: '85',
+                        //           height: '49',
+                        //           loading: 'lazy',
+                        //         }),
+                        //         (0, l.jsx)('span', {
+                        //           className: 'label',
+                        //           children: 'BPP Toolbox',
+                        //         }),
+                        //       ],
+                        //     }),
+                        //   }),
+                        // }),
                       ],
                     }),
                   }),
@@ -2709,7 +2709,7 @@
                       children: [
                         'Copyright \xa9 ',
                         new Date().getFullYear(),
-                        ' \u2013 BluePagesPro \u2013 All Rights Reserved.',
+                        ' \u2013 HK Roofing \u2013 All Rights Reserved.',
                       ],
                     }),
                   }),
@@ -3431,28 +3431,28 @@
                             }),
                           ],
                         }),
-                        (0, i.jsx)('div', {
-                          className: 'column toolbox',
-                          children: (0, i.jsx)('div', {
-                            className: 'image-wrapper',
-                            children: (0, i.jsxs)('a', {
-                              href: '/toolbox/',
-                              children: [
-                                (0, i.jsx)('img', {
-                                  src: '/assets/images/homeowners-toolbox.webp',
-                                  alt: 'Homeowners Toolbox',
-                                  width: '85',
-                                  height: '49',
-                                  loading: 'lazy',
-                                }),
-                                (0, i.jsx)('span', {
-                                  className: 'label',
-                                  children: 'BPP Toolbox',
-                                }),
-                              ],
-                            }),
-                          }),
-                        }),
+                        // (0, i.jsx)('div', {
+                        //   className: 'column toolbox',
+                        //   children: (0, i.jsx)('div', {
+                        //     className: 'image-wrapper',
+                        //     children: (0, i.jsxs)('a', {
+                        //       href: '/toolbox/',
+                        //       children: [
+                        //         (0, i.jsx)('img', {
+                        //           src: '/assets/images/homeowners-toolbox.webp',
+                        //           alt: 'Homeowners Toolbox',
+                        //           width: '85',
+                        //           height: '49',
+                        //           loading: 'lazy',
+                        //         }),
+                        //         (0, i.jsx)('span', {
+                        //           className: 'label',
+                        //           children: 'BPP Toolbox',
+                        //         }),
+                        //       ],
+                        //     }),
+                        //   }),
+                        // }),
                       ],
                     }),
                   }),
@@ -3493,18 +3493,18 @@
             children: [
               (0, a.jsx)('div', {
                 className: 'logo-links',
-                children: (0, a.jsx)(l(), {
-                  href: '/toolbox/',
-                  children: (0, a.jsx)('a', {
-                    className: 'logo',
-                    children: (0, a.jsx)(t(), {
-                      src: '/assets/images/homeowners-toolbox.webp',
-                      width: 85,
-                      height: 49,
-                      alt: 'Homeowner toolbox information',
-                    }),
-                  }),
-                }),
+                // children: (0, a.jsx)(l(), {
+                //   href: '/toolbox/',
+                //   children: (0, a.jsx)('a', {
+                //     className: 'logo',
+                //     children: (0, a.jsx)(t(), {
+                //       src: '/assets/images/homeowners-toolbox.webp',
+                //       width: 85,
+                //       height: 49,
+                //       alt: 'Homeowner toolbox information',
+                //     }),
+                //   }),
+                // }),
               }),
               (0, a.jsxs)('div', {
                 className: 'terms-privacy-policy',
