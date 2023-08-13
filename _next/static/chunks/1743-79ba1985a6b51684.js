@@ -1487,8 +1487,15 @@
                           children: (0, l.jsxs)('a', {
                             className: 'button call-us',
                             children: [
-                              (0, l.jsx)(f.PES, { className: 'icon' }),
-                              'Call Us Now',
+                              (0, l.jsx)('img', {
+                                className: 'icon',
+                                src: './assets/images/listing/phone-icon.svg',
+                                style: {
+                                  color: 'white',
+                                  width: '40px'
+                                },
+                              }),
+                              '  Call Us Now',
                             ],
                           }),
                         }),
@@ -2329,58 +2336,75 @@
                         ],
                       }),
                     }),
-                  n.review_embedded_code &&
-                    (0, l.jsxs)('div', {
-                      className: 'review-wrapper',
-                      children: [
-                        (0, l.jsxs)('div', {
-                          className: 'container',
-                          children: [
-                            // (0, l.jsx)("div", {
-                            //   className: "column thumbnail",
-                            //   children: (0, l.jsx)("img", {
-                            //     src: "/assets/images/listing/review-thumbnail.webp",
-                            //     alt: "ProReview Customers",
-                            //     loading: "lazy",
-                            //     width: "540",
-                            //     height: "561",
-                            //   }),
-                            // }),
-                            (0, l.jsxs)('div', {
-                              className: 'column slider',
-                              children: [
-                                (0, l.jsx)('div', {
-                                  className: 'logo',
-                                  children: (0, l.jsx)(
-                                    t(),
-                                    ((s = {
-                                      alt: 'HK Roofing Truereviews',
-                                      src: '/assets/images/listing/pro-review-logo.webp',
-                                    }),
-                                    (0, a.Z)(s, 'alt', 'ProReview'),
-                                    (0, a.Z)(s, 'layout', 'intrinsic'),
-                                    (0, a.Z)(s, 'width', '250'),
-                                    (0, a.Z)(s, 'height', '51'),
-                                    s)
-                                  ),
-                                }),
-                                (0, l.jsx)('div', {
-                                  className: 'sub-header',
-                                  children: 'What Our Customers Are Saying...',
-                                }),
-                                (0, l.jsx)('div', {
-                                  className: 'review',
-                                  children: (0, l.jsx)(d.Z, {
-                                    html: n.review_embedded_code,
+                  (0, l.jsxs)('div', {
+                    className: 'review-wrapper',
+                    children: [
+                      (0, l.jsxs)('div', {
+                        className: 'container',
+                        children: [
+                          (0, l.jsxs)('section', {
+                            className: 'column slider',
+                            style: {
+                              width: '100%',
+                              display: 'flex',
+                              flexDirection: 'column',
+                              justifyContent: 'center',
+                              alignItems: 'center',
+                            },
+                            children: [
+                              (0, l.jsx)('section', {
+                                style: {
+                                  textAlign: 'center',
+                                  display: 'flex',
+                                  flexDirection: 'column',
+                                  gap: '1rem',
+                                },
+                                children: [
+                                  (0, l.jsx)('section', {
+                                    className: '',
+                                    style: {
+                                      display: 'flex',
+                                      flexDirection: 'row',
+                                      justifyContent: 'center',
+                                      alignItems: 'center',
+                                      gap: '0.5rem',
+                                      width: '100%',
+                                    },
+                                    children: [
+                                      (0, l.jsx)('img', {
+                                        src: '/assets/images/listing/testimonials.png',
+                                        alt: 'Testimonials',
+                                        width: '40',
+                                      }),
+                                      (0, l.jsx)('div', {
+                                        style: {
+                                          fontWeight: 600,
+                                          fontSize: '1.3rem',
+                                        },
+                                        children: 'TESTIMONIALS',
+                                      }),
+                                    ],
                                   }),
-                                }),
-                              ],
-                            }),
-                          ],
-                        }),
-                        (0, l.jsx)('div', { className: 'divider' }),
-                      ],
-                    }),
+                                  (0, l.jsx)('section', {
+                                    children: (0, l.jsx)('h2', {
+                                      style: {
+                                        fontWeight: 700,
+                                        fontSize: '2rem',
+                                      },
+                                      children:
+                                        "What They're Talking About Us...",
+                                    }),
+                                  }),
+                                  (0, l.jsx)('section', {}),
+                                ],
+                              }),
+                            ],
+                          }),
+                        ],
+                      }),
+                      (0, l.jsx)('div', { className: 'divider' }),
+                    ],
+                  }),
                   n.contractor_commerce_code &&
                     (0, l.jsx)('div', {
                       className: 'store-wrapper',

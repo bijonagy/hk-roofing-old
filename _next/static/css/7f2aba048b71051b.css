@@ -13145,9 +13145,10 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .banner-wrapper h1 {
-  font-size: 70px;
+  font-size: 80px;
   color: #fff;
   margin-bottom: 30px;
+  text-transform: uppercase;
 }
 
 .listing-wrapper.pro .banner-wrapper .banner-description {
@@ -13165,7 +13166,7 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .banner-wrapper .banner-form {
-  background: #0078ca;
+  background: rgb(0 0 0 / 52%);
   padding: 12% 12% 40px;
   border-radius: 20px;
   box-shadow: 0 10px 27px rgba(4, 30, 82, 0.15);
@@ -13215,17 +13216,18 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .banner-wrapper .banner-form form .button-row .button {
-  font-size: 14px;
-  background: #01406b;
+  font-size: 16px;
+  background: #ff5757;
   padding: 15px;
   width: 100%;
   max-width: 200px;
   margin: 0 auto;
   display: block;
+  text-transform: uppercase;
 }
 
 .listing-wrapper.pro .banner-wrapper .banner-form form .button-row .button:hover {
-  background: #022f4e;
+  background: #ff3e3e;
 }
 
 .listing-wrapper.pro .banner-wrapper .button-row {
@@ -13238,20 +13240,20 @@ body.video-react-full-window .video-react-fullscreen {
   color: #fff;
   text-align: center;
   font-weight: 700;
-  padding: 24px 30px;
-  width: 250px;
+  padding: 16px 0px;
+  width: 235px;
   border-radius: 60px;
   cursor: pointer;
 }
 
 .listing-wrapper.pro .banner-wrapper .button-row .button.call-us {
-  background-image: linear-gradient(90deg, #4cb1ee, #4b70c3);
-  background-color: #4cb1ee;
+  /* background-image: linear-gradient(90deg, #f96c6c, #eb1414); */
+  background-color: #ff5757;
 }
 
 .listing-wrapper.pro .banner-wrapper .button-row .button.call-us:hover {
-  background-image: linear-gradient(90deg, #4b70c3, #4cb1ee);
-  background-color: #4cb1ee;
+  /* background-image: linear-gradient(90deg, #eb1414, #f96c6c); */
+  background-color: #ff3c3c;
 }
 
 .listing-wrapper.pro .banner-wrapper .button-row .button .icon {
@@ -13423,8 +13425,8 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro .services-wrapper .column.details .button-row .button.special-offer {
-  background: #e02b20;
-  border-color: #e02b20;
+  background: #ff3e3e;
+  font-size: 18px;
 }
 
 .listing-wrapper.pro .services-wrapper .column.details .button-row .button.instant-estimator {
@@ -15581,13 +15583,13 @@ body.video-react-full-window .video-react-fullscreen {
 }
 
 .listing-wrapper.pro-lite .banner-wrapper .button-row .button.call-us {
-  background-image: linear-gradient(90deg, #4cb1ee, #4b70c3);
-  background-color: #4cb1ee;
+  background-image: linear-gradient(90deg, #f96c6c, #eb1414);
+  background-color: #ff5757;
 }
 
 .listing-wrapper.pro-lite .banner-wrapper .button-row .button.call-us:hover {
-  background-image: linear-gradient(90deg, #4b70c3, #4cb1ee);
-  background-color: #4cb1ee;
+  background-image: linear-gradient(90deg, #eb1414, #f96c6c);
+  background-color: #ff5757;
 }
 
 .listing-wrapper.pro-lite .banner-wrapper .button-row .button .icon {
